@@ -1,0 +1,2 @@
+# Discord-Bot-ia
+HOLA, ESTE BOT CLASIFICA IMAGENES
